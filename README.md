@@ -4,3 +4,5 @@ This application was created to generate a team profile based on user input usin
 
 
 <img width="1440" alt="Screen Shot 2022-03-07 at 6 53 10 PM" src="https://user-images.githubusercontent.com/92911517/157157570-cc7fef8f-f8f8-4bcf-993d-aefe98fab86c.png">
+
+https://malcolm0729.github.io/TeamGenerator/
